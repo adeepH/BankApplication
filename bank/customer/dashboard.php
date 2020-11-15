@@ -6,7 +6,6 @@ include("auth.php");
 <html>
 <head>
 <meta charset="utf-8">
-<title>Customer Dashboard - Padya Bank</title>
 <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body>

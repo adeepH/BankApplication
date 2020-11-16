@@ -11,7 +11,6 @@ require('db.php');
 </head>
 <body>
 <div class="form">
-<p>Welcome to Padya Bank.</p>
 <p>Login as:</p>
 <p><a href="customer/dashboard.php">Account Holder</a><p>
 <p><a href="employee/dashboard.php">Employee</a></p>
